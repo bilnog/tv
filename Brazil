@@ -1,0 +1,677 @@
+#EXTM3U
+#EXTINF:-1,A&E HD
+http://maxptv.net:8080/live/sergio/sergio/236.m3u8
+#EXTINF:-1,A&E SD
+http://maxptv.net:8080/live/sergio/sergio/235.m3u8
+#EXTINF:-1,Amc HD
+http://maxptv.net:8080/live/sergio/sergio/512.m3u8
+#EXTINF:-1,AMC SD
+http://maxptv.net:8080/live/sergio/sergio/233.m3u8
+#EXTINF:-1,Animal Planet HD
+http://maxptv.net:8080/live/sergio/sergio/232.m3u8
+#EXTINF:-1,Animal Planet SD
+http://maxptv.net:8080/live/sergio/sergio/231.m3u8
+#EXTINF:-1,AXN HD
+http://maxptv.net:8080/live/sergio/sergio/535.m3u8
+#EXTINF:-1,AXN SD
+http://maxptv.net:8080/live/sergio/sergio/227.m3u8
+#EXTINF:-1,BabyTV HD
+http://maxptv.net:8080/live/sergio/sergio/226.m3u8
+#EXTINF:-1,BabyTV SD
+http://maxptv.net:8080/live/sergio/sergio/225.m3u8
+#EXTINF:-1,Band Campinas HD
+http://maxptv.net:8080/live/sergio/sergio/242.m3u8
+#EXTINF:-1,Band Campinas SD
+http://maxptv.net:8080/live/sergio/sergio/241.m3u8
+#EXTINF:-1,Band News HD
+http://maxptv.net:8080/live/sergio/sergio/224.m3u8
+#EXTINF:-1,Band News SD
+http://maxptv.net:8080/live/sergio/sergio/223.m3u8
+#EXTINF:-1,Band SP HD
+http://maxptv.net:8080/live/sergio/sergio/130.m3u8
+#EXTINF:-1,Band SP SD
+http://maxptv.net:8080/live/sergio/sergio/129.m3u8
+#EXTINF:-1,Band Sports HD
+http://maxptv.net:8080/live/sergio/sergio/221.m3u8
+#EXTINF:-1,Band Sports SD
+http://maxptv.net:8080/live/sergio/sergio/220.m3u8
+#EXTINF:-1,Big Brother Brasil 2020 HD
+http://maxptv.net:8080/live/sergio/sergio/230.m3u8
+#EXTINF:-1,Big Brother Brasil 2020  SD
+http://maxptv.net:8080/live/sergio/sergio/229.m3u8
+#EXTINF:-1,BIZ HD
+http://maxptv.net:8080/live/sergio/sergio/219.m3u8
+#EXTINF:-1,BIZ SD
+http://maxptv.net:8080/live/sergio/sergio/218.m3u8
+#EXTINF:-1,Boomerang HD
+http://maxptv.net:8080/live/sergio/sergio/217.m3u8
+#EXTINF:-1,Boomerang SD
+http://maxptv.net:8080/live/sergio/sergio/216.m3u8
+#EXTINF:-1,Canal Canção Nova HD
+http://maxptv.net:8080/live/sergio/sergio/215.m3u8
+#EXTINF:-1,Canal Canal Canção SD
+http://maxptv.net:8080/live/sergio/sergio/214.m3u8
+#EXTINF:-1,Canal Futura HD
+http://maxptv.net:8080/live/sergio/sergio/211.m3u8
+#EXTINF:-1,Canal Futura SD
+http://maxptv.net:8080/live/sergio/sergio/210.m3u8
+#EXTINF:-1,Canal Curta! HD
+http://maxptv.net:8080/live/sergio/sergio/213.m3u8
+#EXTINF:-1,Canal Curta! SD
+http://maxptv.net:8080/live/sergio/sergio/212.m3u8
+#EXTINF:-1,Canal HGTV HD
+http://maxptv.net:8080/live/sergio/sergio/193.m3u8
+#EXTINF:-1,Canal HGTV SD
+http://maxptv.net:8080/live/sergio/sergio/192.m3u8
+#EXTINF:-1,Canal OFF HD
+http://maxptv.net:8080/live/sergio/sergio/209.m3u8
+#EXTINF:-1,Canal OFF SD
+http://maxptv.net:8080/live/sergio/sergio/208.m3u8
+#EXTINF:-1,Canal Woohoo HD
+http://maxptv.net:8080/live/sergio/sergio/207.m3u8
+#EXTINF:-1,Canal Woohoo SD
+http://maxptv.net:8080/live/sergio/sergio/206.m3u8
+#EXTINF:-1,Cartoon Network HD
+http://maxptv.net:8080/live/sergio/sergio/524.m3u8
+#EXTINF:-1,Cartoon Network SD
+http://maxptv.net:8080/live/sergio/sergio/204.m3u8
+#EXTINF:-1,Comedy Central HD
+http://maxptv.net:8080/live/sergio/sergio/199.m3u8
+#EXTINF:-1,Comedy Central SD
+http://maxptv.net:8080/live/sergio/sergio/198.m3u8
+#EXTINF:-1,Combate HD
+http://maxptv.net:8080/live/sergio/sergio/201.m3u8
+#EXTINF:-1,Combate SD
+http://maxptv.net:8080/live/sergio/sergio/200.m3u8
+#EXTINF:-1,Cinemax HD
+http://maxptv.net:8080/live/sergio/sergio/203.m3u8
+#EXTINF:-1,Cinemax SD
+http://maxptv.net:8080/live/sergio/sergio/202.m3u8
+#EXTINF:-1,A&E  FULL HD H265
+http://maxptv.net:8080/live/sergio/sergio/3036.m3u8
+#EXTINF:-1,ANIMAL PLANET FULL HD H265
+http://maxptv.net:8080/live/sergio/sergio/3037.m3u8
+#EXTINF:-1,AXN  FULL HD H265
+http://maxptv.net:8080/live/sergio/sergio/3038.m3u8
+#EXTINF:-1,Black Kamen Rider 24H
+http://maxptv.net:8080/live/sergio/sergio/537.m3u8
+#EXTINF:-1,Bob Esponja
+http://maxptv.net:8080/live/sergio/sergio/319.m3u8
+#EXTINF:-1,Canal CSI 24H
+http://maxptv.net:8080/live/sergio/sergio/538.m3u8
+#EXTINF:-1,CARTOON NETWORK FULL HD H265
+http://maxptv.net:8080/live/sergio/sergio/3039.m3u8
+#EXTINF:-1,Caverna do Dragao  24H
+http://maxptv.net:8080/live/sergio/sergio/539.m3u8
+#EXTINF:-1,CDZ  Saga de Poseidon 24H
+http://maxptv.net:8080/live/sergio/sergio/540.m3u8
+#EXTINF:-1,Chaves 24H
+http://maxptv.net:8080/live/sergio/sergio/547.m3u8
+#EXTINF:-1,Cine Action 24H Ultra HD
+http://maxptv.net:8080/live/sergio/sergio/548.m3u8
+#EXTINF:-1,Cine Aventura 24H Ultra HD
+http://maxptv.net:8080/live/sergio/sergio/549.m3u8
+#EXTINF:-1,Cine Drama 24H Ultra HD
+http://maxptv.net:8080/live/sergio/sergio/550.m3u8
+#EXTINF:-1,Cine Family 24H
+http://maxptv.net:8080/live/sergio/sergio/551.m3u8
+#EXTINF:-1,Cine Faroeste 24H Ultra HD
+http://maxptv.net:8080/live/sergio/sergio/1478.m3u8
+#EXTINF:-1,Cine Fiction 24H Ultra HD
+http://maxptv.net:8080/live/sergio/sergio/536.m3u8
+#EXTINF:-1,Cine Fun 24H Ultra HD
+http://maxptv.net:8080/live/sergio/sergio/552.m3u8
+#EXTINF:-1,Cine Guerra 24H Ultra HD
+http://maxptv.net:8080/live/sergio/sergio/1477.m3u8
+#EXTINF:-1,Cine Horror 24H Ultra HD
+http://maxptv.net:8080/live/sergio/sergio/553.m3u8
+#EXTINF:-1,CINE KIDS 24H ULTRA HD
+http://maxptv.net:8080/live/sergio/sergio/554.m3u8
+#EXTINF:-1,CINE Nacionais 24H
+http://maxptv.net:8080/live/sergio/sergio/555.m3u8
+#EXTINF:-1,Como eu Conheci a Sua Mae  24H
+http://maxptv.net:8080/live/sergio/sergio/567.m3u8
+#EXTINF:-1,Cultura HD
+http://maxptv.net:8080/live/sergio/sergio/197.m3u8
+#EXTINF:-1,CULTURA HD FHD
+http://maxptv.net:8080/live/sergio/sergio/3040.m3u8
+#EXTINF:-1,Cultura SD
+http://maxptv.net:8080/live/sergio/sergio/196.m3u8
+#EXTINF:-1,Cybercop 24H
+http://maxptv.net:8080/live/sergio/sergio/1479.m3u8
+#EXTINF:-1,DISCORVERY CIVILIZATION FULL HD
+http://maxptv.net:8080/live/sergio/sergio/3044.m3u8
+#EXTINF:-1,DISCORVERY KIDS FULL HD
+http://maxptv.net:8080/live/sergio/sergio/3041.m3u8
+#EXTINF:-1,DISCORVERY THEATER FULL HD
+http://maxptv.net:8080/live/sergio/sergio/3042.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://maxptv.net:8080/live/sergio/sergio/195.m3u8
+#EXTINF:-1,Discovery Channel SD
+http://maxptv.net:8080/live/sergio/sergio/194.m3u8
+#EXTINF:-1,Discovery Home & Health HD
+http://maxptv.net:8080/live/sergio/sergio/191.m3u8
+#EXTINF:-1,Discovery Home & Health SD
+http://maxptv.net:8080/live/sergio/sergio/190.m3u8
+#EXTINF:-1,Discovery Kids HD
+http://maxptv.net:8080/live/sergio/sergio/189.m3u8
+#EXTINF:-1,Discovery Kids SD
+http://maxptv.net:8080/live/sergio/sergio/188.m3u8
+#EXTINF:-1,Discovery Science HD
+http://maxptv.net:8080/live/sergio/sergio/187.m3u8
+#EXTINF:-1,Discovery Science SD
+http://maxptv.net:8080/live/sergio/sergio/186.m3u8
+#EXTINF:-1,Discovery Theater HD
+http://maxptv.net:8080/live/sergio/sergio/185.m3u8
+#EXTINF:-1,Discovery Theater SD
+http://maxptv.net:8080/live/sergio/sergio/184.m3u8
+#EXTINF:-1,DISCOVERY TURBO FULL HD
+http://maxptv.net:8080/live/sergio/sergio/3043.m3u8
+#EXTINF:-1,Discovery Turbo HD
+http://maxptv.net:8080/live/sergio/sergio/183.m3u8
+#EXTINF:-1,Discovery Turbo SD
+http://maxptv.net:8080/live/sergio/sergio/182.m3u8
+#EXTINF:-1,Discovery World HD
+http://maxptv.net:8080/live/sergio/sergio/181.m3u8
+#EXTINF:-1,Discovery World SD
+http://maxptv.net:8080/live/sergio/sergio/180.m3u8
+#EXTINF:-1,Disney Channel  HD
+http://maxptv.net:8080/live/sergio/sergio/179.m3u8
+#EXTINF:-1,DISNEY CHANNEL FULL HD H265
+http://maxptv.net:8080/live/sergio/sergio/3045.m3u8
+#EXTINF:-1,Disney Channel SD
+http://maxptv.net:8080/live/sergio/sergio/178.m3u8
+#EXTINF:-1,Disney Junior HD
+http://maxptv.net:8080/live/sergio/sergio/177.m3u8
+#EXTINF:-1,Disney Junior SD
+http://maxptv.net:8080/live/sergio/sergio/176.m3u8
+#EXTINF:-1,Disney XD HD
+http://maxptv.net:8080/live/sergio/sergio/175.m3u8
+#EXTINF:-1,Disney XD SD
+http://maxptv.net:8080/live/sergio/sergio/174.m3u8
+#EXTINF:-1,DR. House 24HR
+http://maxptv.net:8080/live/sergio/sergio/568.m3u8
+#EXTINF:-1,Dragoes  24H
+http://maxptv.net:8080/live/sergio/sergio/1480.m3u8
+#EXTINF:-1,E! HD
+http://maxptv.net:8080/live/sergio/sergio/516.m3u8
+#EXTINF:-1,E! SD
+http://maxptv.net:8080/live/sergio/sergio/172.m3u8
+#EXTINF:-1,EPTV Campinas HD
+http://maxptv.net:8080/live/sergio/sergio/238.m3u8
+#EXTINF:-1,EPTV Campinas HD 2
+http://maxptv.net:8080/live/sergio/sergio/246.m3u8
+#EXTINF:-1,EPTV Campinas SD
+http://maxptv.net:8080/live/sergio/sergio/237.m3u8
+#EXTINF:-1,Eptv FHD Ribeirao
+http://maxptv.net:8080/live/sergio/sergio/3073.m3u8
+#EXTINF:-1,Espn  2 HD
+http://maxptv.net:8080/live/sergio/sergio/171.m3u8
+#EXTINF:-1,Espn  2 SD 
+http://maxptv.net:8080/live/sergio/sergio/170.m3u8
+#EXTINF:-1,ESPN BRASIL FULL  HD H265
+http://maxptv.net:8080/live/sergio/sergio/3047.m3u8
+#EXTINF:-1,Espn Brasil HD
+http://maxptv.net:8080/live/sergio/sergio/169.m3u8
+#EXTINF:-1,Espn Brasil SD
+http://maxptv.net:8080/live/sergio/sergio/168.m3u8
+#EXTINF:-1,Espn Extra  SD
+http://maxptv.net:8080/live/sergio/sergio/164.m3u8
+#EXTINF:-1,Espn Extra HD
+http://maxptv.net:8080/live/sergio/sergio/165.m3u8
+#EXTINF:-1,Espn HD
+http://maxptv.net:8080/live/sergio/sergio/167.m3u8
+#EXTINF:-1,Espn SD
+http://maxptv.net:8080/live/sergio/sergio/166.m3u8
+#EXTINF:-1,Eu a Patroa e as Crianças
+http://maxptv.net:8080/live/sergio/sergio/321.m3u8
+#EXTINF:-1,Familia da Pesada 24H
+http://maxptv.net:8080/live/sergio/sergio/1481.m3u8
+#EXTINF:-1,Familia Dinossauro  24H
+http://maxptv.net:8080/live/sergio/sergio/569.m3u8
+#EXTINF:-1,Film&Arts HD
+http://maxptv.net:8080/live/sergio/sergio/163.m3u8
+#EXTINF:-1,Film&Arts SD
+http://maxptv.net:8080/live/sergio/sergio/162.m3u8
+#EXTINF:-1,FISH TV HD
+http://maxptv.net:8080/live/sergio/sergio/525.m3u8
+#EXTINF:-1,Fish TV SD
+http://maxptv.net:8080/live/sergio/sergio/161.m3u8
+#EXTINF:-1,Food Network HD
+http://maxptv.net:8080/live/sergio/sergio/158.m3u8
+#EXTINF:-1,Food Network SD
+http://maxptv.net:8080/live/sergio/sergio/159.m3u8
+#EXTINF:-1,FOX ESPORTES 2 FULL HD  H265
+http://maxptv.net:8080/live/sergio/sergio/3048.m3u8
+#EXTINF:-1,FOX ESPORTES FULL HD H265
+http://maxptv.net:8080/live/sergio/sergio/3049.m3u8
+#EXTINF:-1,FOX FULL HD h265
+http://maxptv.net:8080/live/sergio/sergio/3050.m3u8
+#EXTINF:-1,FOX HD
+http://maxptv.net:8080/live/sergio/sergio/157.m3u8
+#EXTINF:-1,FOX Life HD
+http://maxptv.net:8080/live/sergio/sergio/156.m3u8
+#EXTINF:-1,FOX Life SD
+http://maxptv.net:8080/live/sergio/sergio/155.m3u8
+#EXTINF:-1,Fox Premium 2 HD
+http://maxptv.net:8080/live/sergio/sergio/526.m3u8
+#EXTINF:-1,Fox Premium 2 SD
+http://maxptv.net:8080/live/sergio/sergio/527.m3u8
+#EXTINF:-1,Fox Premium HD
+http://maxptv.net:8080/live/sergio/sergio/528.m3u8
+#EXTINF:-1,Fox Premium SD
+http://maxptv.net:8080/live/sergio/sergio/151.m3u8
+#EXTINF:-1,FOX SD
+http://maxptv.net:8080/live/sergio/sergio/150.m3u8
+#EXTINF:-1,Fox Sports 2 HD
+http://maxptv.net:8080/live/sergio/sergio/529.m3u8
+#EXTINF:-1,Fox Sports 2 SD
+http://maxptv.net:8080/live/sergio/sergio/148.m3u8
+#EXTINF:-1,Fox Sports HD
+http://maxptv.net:8080/live/sergio/sergio/147.m3u8
+#EXTINF:-1,Fox Sports SD
+http://maxptv.net:8080/live/sergio/sergio/146.m3u8
+#EXTINF:-1,FX HD
+http://maxptv.net:8080/live/sergio/sergio/145.m3u8
+#EXTINF:-1,FX SD
+http://maxptv.net:8080/live/sergio/sergio/144.m3u8
+#EXTINF:-1,Galinha Pintadinha 24H
+http://maxptv.net:8080/live/sergio/sergio/1476.m3u8
+#EXTINF:-1,Globo Ribeirão HD
+http://maxptv.net:8080/live/sergio/sergio/985.m3u8
+#EXTINF:-1,Globo Ribeirão SD
+http://maxptv.net:8080/live/sergio/sergio/986.m3u8
+#EXTINF:-1,Globo SP HD
+http://maxptv.net:8080/live/sergio/sergio/72.m3u8
+#EXTINF:-1,Globo SP SD
+http://maxptv.net:8080/live/sergio/sergio/71.m3u8
+#EXTINF:-1,GloboNews HD
+http://maxptv.net:8080/live/sergio/sergio/143.m3u8
+#EXTINF:-1,GloboNews SD
+http://maxptv.net:8080/live/sergio/sergio/142.m3u8
+#EXTINF:-1,Gloob HD
+http://maxptv.net:8080/live/sergio/sergio/530.m3u8
+#EXTINF:-1,Gloob SD
+http://maxptv.net:8080/live/sergio/sergio/140.m3u8
+#EXTINF:-1,GNT HD
+http://maxptv.net:8080/live/sergio/sergio/139.m3u8
+#EXTINF:-1,GNT SD
+http://maxptv.net:8080/live/sergio/sergio/138.m3u8
+#EXTINF:-1,H2 HD
+http://maxptv.net:8080/live/sergio/sergio/137.m3u8
+#EXTINF:-1,H2 SD
+http://maxptv.net:8080/live/sergio/sergio/523.m3u8
+#EXTINF:-1,HBO 2 HD
+http://maxptv.net:8080/live/sergio/sergio/135.m3u8
+#EXTINF:-1,HBO 2 SD
+http://maxptv.net:8080/live/sergio/sergio/134.m3u8
+#EXTINF:-1,HBO Family HD
+http://maxptv.net:8080/live/sergio/sergio/133.m3u8
+#EXTINF:-1,HBO Family SD
+http://maxptv.net:8080/live/sergio/sergio/132.m3u8
+#EXTINF:-1,HBO HD
+http://maxptv.net:8080/live/sergio/sergio/131.m3u8
+#EXTINF:-1,HBO Plus HD
+http://maxptv.net:8080/live/sergio/sergio/128.m3u8
+#EXTINF:-1,HBO Plus SD
+http://maxptv.net:8080/live/sergio/sergio/127.m3u8
+#EXTINF:-1,HBO SD
+http://maxptv.net:8080/live/sergio/sergio/126.m3u8
+#EXTINF:-1,HBO Signature HD
+http://maxptv.net:8080/live/sergio/sergio/531.m3u8
+#EXTINF:-1,HBO Signature SD
+http://maxptv.net:8080/live/sergio/sergio/124.m3u8
+#EXTINF:-1,History Channel HD
+http://maxptv.net:8080/live/sergio/sergio/532.m3u8
+#EXTINF:-1,History Channel SD
+http://maxptv.net:8080/live/sergio/sergio/122.m3u8
+#EXTINF:-1,Homem-Aranha 24H
+http://maxptv.net:8080/live/sergio/sergio/566.m3u8
+#EXTINF:-1,ID HD
+http://maxptv.net:8080/live/sergio/sergio/121.m3u8
+#EXTINF:-1,ID SD
+http://maxptv.net:8080/live/sergio/sergio/120.m3u8
+#EXTINF:-1,Jaspion 24H
+http://maxptv.net:8080/live/sergio/sergio/570.m3u8
+#EXTINF:-1,Jiraya  O Incrivel Ninja 24H
+http://maxptv.net:8080/live/sergio/sergio/1475.m3u8
+#EXTINF:-1,Larva 24H
+http://maxptv.net:8080/live/sergio/sergio/1474.m3u8
+#EXTINF:-1,Lifetime HD
+http://maxptv.net:8080/live/sergio/sergio/522.m3u8
+#EXTINF:-1,Lifetime SD
+http://maxptv.net:8080/live/sergio/sergio/118.m3u8
+#EXTINF:-1,Lion Man 24H
+http://maxptv.net:8080/live/sergio/sergio/1473.m3u8
+#EXTINF:-1,Looney Tunnes 24H
+http://maxptv.net:8080/live/sergio/sergio/565.m3u8
+#EXTINF:-1,Mais Globosat HD
+http://maxptv.net:8080/live/sergio/sergio/117.m3u8
+#EXTINF:-1,Mais Globosat SD
+http://maxptv.net:8080/live/sergio/sergio/116.m3u8
+#EXTINF:-1,MARVEL & DC 24H
+http://maxptv.net:8080/live/sergio/sergio/545.m3u8
+#EXTINF:-1,HBO Mundi HD
+http://maxptv.net:8080/live/sergio/sergio/521.m3u8
+#EXTINF:-1,HBO Xtreme HD
+http://maxptv.net:8080/live/sergio/sergio/520.m3u8
+#EXTINF:-1,HBO Xtreme SD
+http://maxptv.net:8080/live/sergio/sergio/113.m3u8
+#EXTINF:-1,HBO Mundi SD
+http://maxptv.net:8080/live/sergio/sergio/112.m3u8
+#EXTINF:-1,Max up full hd
+http://maxptv.net:8080/live/sergio/sergio/3074.m3u8
+#EXTINF:-1,HBO Pop HD
+http://maxptv.net:8080/live/sergio/sergio/111.m3u8
+#EXTINF:-1,HBO Pop SD
+http://maxptv.net:8080/live/sergio/sergio/110.m3u8
+#EXTINF:-1,Megapix HD
+http://maxptv.net:8080/live/sergio/sergio/109.m3u8
+#EXTINF:-1,Megapix SD
+http://maxptv.net:8080/live/sergio/sergio/108.m3u8
+#EXTINF:-1,MR. Bean 24H
+http://maxptv.net:8080/live/sergio/sergio/546.m3u8
+#EXTINF:-1,MTV HD
+http://maxptv.net:8080/live/sergio/sergio/519.m3u8
+#EXTINF:-1,MTV SD
+http://maxptv.net:8080/live/sergio/sergio/106.m3u8
+#EXTINF:-1,MULTISHOW HD
+http://maxptv.net:8080/live/sergio/sergio/105.m3u8
+#EXTINF:-1,MULTISHOW SD
+http://maxptv.net:8080/live/sergio/sergio/104.m3u8
+#EXTINF:-1,MULTSHOW FULL HD H265
+http://maxptv.net:8080/live/sergio/sergio/3067.m3u8
+#EXTINF:-1,Naruto 24H
+http://maxptv.net:8080/live/sergio/sergio/564.m3u8
+#EXTINF:-1,Nat Geo Kids HD
+http://maxptv.net:8080/live/sergio/sergio/518.m3u8
+#EXTINF:-1,Nat Geo Kids SD
+http://maxptv.net:8080/live/sergio/sergio/102.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://maxptv.net:8080/live/sergio/sergio/101.m3u8
+#EXTINF:-1,Nat Geo Wild SD
+http://maxptv.net:8080/live/sergio/sergio/100.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC FULL HD H265
+http://maxptv.net:8080/live/sergio/sergio/3068.m3u8
+#EXTINF:-1,National Geographic HD
+http://maxptv.net:8080/live/sergio/sergio/99.m3u8
+#EXTINF:-1,National Geographic SD
+http://maxptv.net:8080/live/sergio/sergio/98.m3u8
+#EXTINF:-1,NHK HD
+http://maxptv.net:8080/live/sergio/sergio/97.m3u8
+#EXTINF:-1,NHK SD
+http://maxptv.net:8080/live/sergio/sergio/96.m3u8
+#EXTINF:-1,NICK JR  FULL HD
+http://maxptv.net:8080/live/sergio/sergio/3072.m3u8
+#EXTINF:-1,Nick Jr HD
+http://maxptv.net:8080/live/sergio/sergio/95.m3u8
+#EXTINF:-1,Nick Jr SD
+http://maxptv.net:8080/live/sergio/sergio/94.m3u8
+#EXTINF:-1,NICKELOAD FULL HD H265
+http://maxptv.net:8080/live/sergio/sergio/3063.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://maxptv.net:8080/live/sergio/sergio/93.m3u8
+#EXTINF:-1,Nickelodeon SD
+http://maxptv.net:8080/live/sergio/sergio/92.m3u8
+#EXTINF:-1,Os Simpsons 24H
+http://maxptv.net:8080/live/sergio/sergio/563.m3u8
+#EXTINF:-1,Os Vingadores 24H
+http://maxptv.net:8080/live/sergio/sergio/1482.m3u8
+#EXTINF:-1,Paramount Channel HD
+http://maxptv.net:8080/live/sergio/sergio/91.m3u8
+#EXTINF:-1,Paramount Channel SD
+http://maxptv.net:8080/live/sergio/sergio/90.m3u8
+#EXTINF:-1,Peppa Pig 24H
+http://maxptv.net:8080/live/sergio/sergio/562.m3u8
+#EXTINF:-1,Playboy HD
+http://maxptv.net:8080/live/sergio/sergio/88.m3u8
+#EXTINF:-1,Playboy SD
+http://maxptv.net:8080/live/sergio/sergio/87.m3u8
+#EXTINF:-1,POCOYO 24H
+http://maxptv.net:8080/live/sergio/sergio/561.m3u8
+#EXTINF:-1,Pokemon 24H
+http://maxptv.net:8080/live/sergio/sergio/560.m3u8
+#EXTINF:-1,Premiere 1 HD
+http://maxptv.net:8080/live/sergio/sergio/86.m3u8
+#EXTINF:-1,Premiere 1 HD Alternativo
+http://maxptv.net:8080/live/sergio/sergio/1461.m3u8
+#EXTINF:-1,Premiere 1 HD2
+http://maxptv.net:8080/live/sergio/sergio/247.m3u8
+#EXTINF:-1,Premiere 1 SD
+http://maxptv.net:8080/live/sergio/sergio/85.m3u8
+#EXTINF:-1,PREMIERE 2 FULL HD
+http://maxptv.net:8080/live/sergio/sergio/3064.m3u8
+#EXTINF:-1,Premiere 2 HD
+http://maxptv.net:8080/live/sergio/sergio/84.m3u8
+#EXTINF:-1,Premiere 2 HD Alternativo
+http://maxptv.net:8080/live/sergio/sergio/1462.m3u8
+#EXTINF:-1,Premiere 2 SD
+http://maxptv.net:8080/live/sergio/sergio/83.m3u8
+#EXTINF:-1,PREMIERE 3 FHD
+http://maxptv.net:8080/live/sergio/sergio/3065.m3u8
+#EXTINF:-1,Premiere 3 HD
+http://maxptv.net:8080/live/sergio/sergio/82.m3u8
+#EXTINF:-1,Premiere 3 HD Alternativo
+http://maxptv.net:8080/live/sergio/sergio/1463.m3u8
+#EXTINF:-1,Premiere 3 SD
+http://maxptv.net:8080/live/sergio/sergio/81.m3u8
+#EXTINF:-1,PREMIERE 4 FHD
+http://maxptv.net:8080/live/sergio/sergio/3066.m3u8
+#EXTINF:-1,Premiere 4 HD
+http://maxptv.net:8080/live/sergio/sergio/80.m3u8
+#EXTINF:-1,Premiere 4 HD Alternativo
+http://maxptv.net:8080/live/sergio/sergio/1464.m3u8
+#EXTINF:-1,Premiere 4 SD
+http://maxptv.net:8080/live/sergio/sergio/79.m3u8
+#EXTINF:-1,Premiere 5 HD
+http://maxptv.net:8080/live/sergio/sergio/78.m3u8
+#EXTINF:-1,Premiere 5 HD Alternativo
+http://maxptv.net:8080/live/sergio/sergio/1465.m3u8
+#EXTINF:-1,Premiere 5 SD
+http://maxptv.net:8080/live/sergio/sergio/77.m3u8
+#EXTINF:-1,Premiere 6 HD
+http://maxptv.net:8080/live/sergio/sergio/76.m3u8
+#EXTINF:-1,Premiere 6 HD Alternativo
+http://maxptv.net:8080/live/sergio/sergio/1466.m3u8
+#EXTINF:-1,Premiere 6 SD
+http://maxptv.net:8080/live/sergio/sergio/75.m3u8
+#EXTINF:-1,Premiere 7 HD
+http://maxptv.net:8080/live/sergio/sergio/74.m3u8
+#EXTINF:-1,Premiere 7 HD Alternativo
+http://maxptv.net:8080/live/sergio/sergio/1467.m3u8
+#EXTINF:-1,Premiere 7 SD
+http://maxptv.net:8080/live/sergio/sergio/73.m3u8
+#EXTINF:-1,PREMIERE CLUBES FULL HD
+http://maxptv.net:8080/live/sergio/sergio/3062.m3u8
+#EXTINF:-1,Record HD
+http://maxptv.net:8080/live/sergio/sergio/240.m3u8
+#EXTINF:-1,Record HD 2
+http://maxptv.net:8080/live/sergio/sergio/68.m3u8
+#EXTINF:-1,RECORD NEWS FULL HD
+http://maxptv.net:8080/live/sergio/sergio/3061.m3u8
+#EXTINF:-1,Record News HD
+http://maxptv.net:8080/live/sergio/sergio/67.m3u8
+#EXTINF:-1,Record News SD
+http://maxptv.net:8080/live/sergio/sergio/66.m3u8
+#EXTINF:-1,Record SD
+http://maxptv.net:8080/live/sergio/sergio/239.m3u8
+#EXTINF:-1,Record SP HD
+http://maxptv.net:8080/live/sergio/sergio/65.m3u8
+#EXTINF:-1,Record SP SD
+http://maxptv.net:8080/live/sergio/sergio/64.m3u8
+#EXTINF:-1,REDE TV FHD
+http://maxptv.net:8080/live/sergio/sergio/3071.m3u8
+#EXTINF:-1,Rede Vida HD
+http://maxptv.net:8080/live/sergio/sergio/62.m3u8
+#EXTINF:-1,Rede Vida SD
+http://maxptv.net:8080/live/sergio/sergio/63.m3u8
+#EXTINF:-1,RedeTV HD
+http://maxptv.net:8080/live/sergio/sergio/61.m3u8
+#EXTINF:-1,RedeTV SD
+http://maxptv.net:8080/live/sergio/sergio/60.m3u8
+#EXTINF:-1,Rá -Tim Bum- HD
+http://maxptv.net:8080/live/sergio/sergio/70.m3u8
+#EXTINF:-1,Rá- Tim- Bum SD
+http://maxptv.net:8080/live/sergio/sergio/69.m3u8
+#EXTINF:-1,SBT FHD INTERIOR
+http://maxptv.net:8080/live/sergio/sergio/3060.m3u8
+#EXTINF:-1,Sbt HD
+http://maxptv.net:8080/live/sergio/sergio/59.m3u8
+#EXTINF:-1,Sbt SD
+http://maxptv.net:8080/live/sergio/sergio/58.m3u8
+#EXTINF:-1,Sextreme HD
+http://maxptv.net:8080/live/sergio/sergio/57.m3u8
+#EXTINF:-1,Sextreme SD
+http://maxptv.net:8080/live/sergio/sergio/56.m3u8
+#EXTINF:-1,Sexy Hot HD
+http://maxptv.net:8080/live/sergio/sergio/55.m3u8
+#EXTINF:-1,Sexy Hot SD
+http://maxptv.net:8080/live/sergio/sergio/54.m3u8
+#EXTINF:-1,Show da Luna 24H
+http://maxptv.net:8080/live/sergio/sergio/559.m3u8
+#EXTINF:-1,Sony HD
+http://maxptv.net:8080/live/sergio/sergio/53.m3u8
+#EXTINF:-1,Sony SD
+http://maxptv.net:8080/live/sergio/sergio/52.m3u8
+#EXTINF:-1,South Park 24H
+http://maxptv.net:8080/live/sergio/sergio/544.m3u8
+#EXTINF:-1,Space HD
+http://maxptv.net:8080/live/sergio/sergio/51.m3u8
+#EXTINF:-1,Space SD
+http://maxptv.net:8080/live/sergio/sergio/50.m3u8
+#EXTINF:-1,SporTV 2 FULL HD H265
+http://maxptv.net:8080/live/sergio/sergio/3058.m3u8
+#EXTINF:-1,SPORTV 3 FULL HD H265
+http://maxptv.net:8080/live/sergio/sergio/3059.m3u8
+#EXTINF:-1,SporTV FULL HD H265
+http://maxptv.net:8080/live/sergio/sergio/3057.m3u8
+#EXTINF:-1,SporTV HD
+http://maxptv.net:8080/live/sergio/sergio/49.m3u8
+#EXTINF:-1,SporTV SD
+http://maxptv.net:8080/live/sergio/sergio/48.m3u8
+#EXTINF:-1,SporTV2 HD
+http://maxptv.net:8080/live/sergio/sergio/47.m3u8
+#EXTINF:-1,SporTV2 SD
+http://maxptv.net:8080/live/sergio/sergio/46.m3u8
+#EXTINF:-1,SporTV3 HD
+http://maxptv.net:8080/live/sergio/sergio/45.m3u8
+#EXTINF:-1,SporTV3 SD
+http://maxptv.net:8080/live/sergio/sergio/44.m3u8
+#EXTINF:-1,Studio Universal HD
+http://maxptv.net:8080/live/sergio/sergio/43.m3u8
+#EXTINF:-1,Studio Universal SD
+http://maxptv.net:8080/live/sergio/sergio/42.m3u8
+#EXTINF:-1,Syfy HD
+http://maxptv.net:8080/live/sergio/sergio/41.m3u8
+#EXTINF:-1,Syfy SD
+http://maxptv.net:8080/live/sergio/sergio/40.m3u8
+#EXTINF:-1,Tbs HD
+http://maxptv.net:8080/live/sergio/sergio/39.m3u8
+#EXTINF:-1,Tbs SD
+http://maxptv.net:8080/live/sergio/sergio/38.m3u8
+#EXTINF:-1,TCM HD
+http://maxptv.net:8080/live/sergio/sergio/37.m3u8
+#EXTINF:-1,TCM SD
+http://maxptv.net:8080/live/sergio/sergio/36.m3u8
+#EXTINF:-1,TELECINE ACTION FULL  HD
+http://maxptv.net:8080/live/sergio/sergio/3056.m3u8
+#EXTINF:-1,Telecine Action HD
+http://maxptv.net:8080/live/sergio/sergio/35.m3u8
+#EXTINF:-1,Telecine Action SD
+http://maxptv.net:8080/live/sergio/sergio/34.m3u8
+#EXTINF:-1,Telecine Cult HD
+http://maxptv.net:8080/live/sergio/sergio/33.m3u8
+#EXTINF:-1,Telecine Cult SD
+http://maxptv.net:8080/live/sergio/sergio/32.m3u8
+#EXTINF:-1,TELECINE FUN FULL  HD H265
+http://maxptv.net:8080/live/sergio/sergio/3055.m3u8
+#EXTINF:-1,Telecine Fun HD
+http://maxptv.net:8080/live/sergio/sergio/31.m3u8
+#EXTINF:-1,Telecine Fun SD
+http://maxptv.net:8080/live/sergio/sergio/30.m3u8
+#EXTINF:-1,TELECINE PIPOCA FULL HD H265
+http://maxptv.net:8080/live/sergio/sergio/3054.m3u8
+#EXTINF:-1,Telecine Pipoca HD
+http://maxptv.net:8080/live/sergio/sergio/29.m3u8
+#EXTINF:-1,Telecine Pipoca SD
+http://maxptv.net:8080/live/sergio/sergio/28.m3u8
+#EXTINF:-1,TELECINE PREMIUM FULL HD H265
+http://maxptv.net:8080/live/sergio/sergio/3053.m3u8
+#EXTINF:-1,Telecine Premium HD
+http://maxptv.net:8080/live/sergio/sergio/27.m3u8
+#EXTINF:-1,Telecine Premium SD
+http://maxptv.net:8080/live/sergio/sergio/26.m3u8
+#EXTINF:-1,TELECINE TOUCH FULL HD
+http://maxptv.net:8080/live/sergio/sergio/3070.m3u8
+#EXTINF:-1,Telecine Touch HD
+http://maxptv.net:8080/live/sergio/sergio/25.m3u8
+#EXTINF:-1,Telecine Touch SD
+http://maxptv.net:8080/live/sergio/sergio/24.m3u8
+#EXTINF:-1,The Backyardigans 24H
+http://maxptv.net:8080/live/sergio/sergio/558.m3u8
+#EXTINF:-1,The Big Bang Theory 24H
+http://maxptv.net:8080/live/sergio/sergio/543.m3u8
+#EXTINF:-1,THE HISTORY CHANNEL FULL HD
+http://maxptv.net:8080/live/sergio/sergio/3052.m3u8
+#EXTINF:-1,TLC HD
+http://maxptv.net:8080/live/sergio/sergio/23.m3u8
+#EXTINF:-1,TLC SD
+http://maxptv.net:8080/live/sergio/sergio/22.m3u8
+#EXTINF:-1,TNT FULLHD
+http://maxptv.net:8080/live/sergio/sergio/3069.m3u8
+#EXTINF:-1,TNT HD
+http://maxptv.net:8080/live/sergio/sergio/21.m3u8
+#EXTINF:-1,TNT SD
+http://maxptv.net:8080/live/sergio/sergio/20.m3u8
+#EXTINF:-1,TNT Series HD
+http://maxptv.net:8080/live/sergio/sergio/517.m3u8
+#EXTINF:-1,TNT Series SD
+http://maxptv.net:8080/live/sergio/sergio/18.m3u8
+#EXTINF:-1,Todo Mundo Odeia o Cris
+http://maxptv.net:8080/live/sergio/sergio/317.m3u8
+#EXTINF:-1,Tom & Jerry  24H
+http://maxptv.net:8080/live/sergio/sergio/557.m3u8
+#EXTINF:-1,Tooncast HD
+http://maxptv.net:8080/live/sergio/sergio/17.m3u8
+#EXTINF:-1,Tooncast SD
+http://maxptv.net:8080/live/sergio/sergio/16.m3u8
+#EXTINF:-1,TV Aparecida FULL HD
+http://maxptv.net:8080/live/sergio/sergio/3046.m3u8
+#EXTINF:-1,TV Aparecida HD
+http://maxptv.net:8080/live/sergio/sergio/15.m3u8
+#EXTINF:-1,TV Aparecida SD
+http://maxptv.net:8080/live/sergio/sergio/14.m3u8
+#EXTINF:-1,TV Rio Preto
+http://maxptv.net:8080/live/sergio/sergio/13.m3u8
+#EXTINF:-1,TV RÁ TIM BUM FULL HD H265
+http://maxptv.net:8080/live/sergio/sergio/3051.m3u8
+#EXTINF:-1,Two And a Half Man 24H
+http://maxptv.net:8080/live/sergio/sergio/542.m3u8
+#EXTINF:-1,Um Maluco No Pedaco  24H
+http://maxptv.net:8080/live/sergio/sergio/541.m3u8
+#EXTINF:-1,Universal Channel HD
+http://maxptv.net:8080/live/sergio/sergio/12.m3u8
+#EXTINF:-1,Universal Channel SD
+http://maxptv.net:8080/live/sergio/sergio/11.m3u8
+#EXTINF:-1,Venus HD
+http://maxptv.net:8080/live/sergio/sergio/10.m3u8
+#EXTINF:-1,Venus SD
+http://maxptv.net:8080/live/sergio/sergio/9.m3u8
+#EXTINF:-1,VH1 HD
+http://maxptv.net:8080/live/sergio/sergio/8.m3u8
+#EXTINF:-1,VH1 SD
+http://maxptv.net:8080/live/sergio/sergio/7.m3u8
+#EXTINF:-1,Viva HD
+http://maxptv.net:8080/live/sergio/sergio/6.m3u8
+#EXTINF:-1,Viva SD
+http://maxptv.net:8080/live/sergio/sergio/5.m3u8
+#EXTINF:-1,Warner Bros HD
+http://maxptv.net:8080/live/sergio/sergio/4.m3u8
+#EXTINF:-1,Warner Bros SD
+http://maxptv.net:8080/live/sergio/sergio/3.m3u8
+#EXTINF:-1,X-Men Evolution 24H
+http://maxptv.net:8080/live/sergio/sergio/1483.m3u8
+#EXTINF:-1,Zoomoo HD
+http://maxptv.net:8080/live/sergio/sergio/2.m3u8
+#EXTINF:-1,Zoomoo SD
+http://maxptv.net:8080/live/sergio/sergio/1.m3u8
